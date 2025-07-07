@@ -7,11 +7,11 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "Lakiya-Md=nYEghZAR#ig3DE3I_RnNG30jGhjyvtmwbbPryAo-XWvV9mvcV9wk",
       "required": true
     },
  "NEWS_SEND_JID": {
-      "description": "Put the jid channel or group",
+      "description": "https://whatsapp.com/channel/0029Vb5uLwF7z4kgGnpfGU3D",
       "required": false
     },
 "AUTO_NEWS_SENDER": {
